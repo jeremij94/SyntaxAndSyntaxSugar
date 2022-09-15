@@ -1,0 +1,15 @@
+/Users/jeremijackson/Desktop/Repos/SyntaxAndSytaxSugar/SyntaxSugarExercises/obj/Debug/net6.0/SyntaxSugarExercises.csproj.AssemblyReference.cache
+/Users/jeremijackson/Desktop/Repos/SyntaxAndSytaxSugar/SyntaxSugarExercises/obj/Debug/net6.0/SyntaxSugarExercises.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeremijackson/Desktop/Repos/SyntaxAndSytaxSugar/SyntaxSugarExercises/obj/Debug/net6.0/SyntaxSugarExercises.AssemblyInfoInputs.cache
+/Users/jeremijackson/Desktop/Repos/SyntaxAndSytaxSugar/SyntaxSugarExercises/obj/Debug/net6.0/SyntaxSugarExercises.AssemblyInfo.cs
+/Users/jeremijackson/Desktop/Repos/SyntaxAndSytaxSugar/SyntaxSugarExercises/obj/Debug/net6.0/SyntaxSugarExercises.csproj.CoreCompileInputs.cache
+/Users/jeremijackson/Desktop/Repos/SyntaxAndSytaxSugar/SyntaxSugarExercises/bin/Debug/net6.0/SyntaxSugarExercises
+/Users/jeremijackson/Desktop/Repos/SyntaxAndSytaxSugar/SyntaxSugarExercises/bin/Debug/net6.0/SyntaxSugarExercises.deps.json
+/Users/jeremijackson/Desktop/Repos/SyntaxAndSytaxSugar/SyntaxSugarExercises/bin/Debug/net6.0/SyntaxSugarExercises.runtimeconfig.json
+/Users/jeremijackson/Desktop/Repos/SyntaxAndSytaxSugar/SyntaxSugarExercises/bin/Debug/net6.0/SyntaxSugarExercises.dll
+/Users/jeremijackson/Desktop/Repos/SyntaxAndSytaxSugar/SyntaxSugarExercises/bin/Debug/net6.0/SyntaxSugarExercises.pdb
+/Users/jeremijackson/Desktop/Repos/SyntaxAndSytaxSugar/SyntaxSugarExercises/obj/Debug/net6.0/SyntaxSugarExercises.dll
+/Users/jeremijackson/Desktop/Repos/SyntaxAndSytaxSugar/SyntaxSugarExercises/obj/Debug/net6.0/refint/SyntaxSugarExercises.dll
+/Users/jeremijackson/Desktop/Repos/SyntaxAndSytaxSugar/SyntaxSugarExercises/obj/Debug/net6.0/SyntaxSugarExercises.pdb
+/Users/jeremijackson/Desktop/Repos/SyntaxAndSytaxSugar/SyntaxSugarExercises/obj/Debug/net6.0/SyntaxSugarExercises.genruntimeconfig.cache
+/Users/jeremijackson/Desktop/Repos/SyntaxAndSytaxSugar/SyntaxSugarExercises/obj/Debug/net6.0/ref/SyntaxSugarExercises.dll
